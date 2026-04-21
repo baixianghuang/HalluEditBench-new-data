@@ -1,0 +1,1922 @@
+[
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The book \"Dirty Sexy Politics\", released in 2010, was about whose US presidential campaign?",
+    "model_response": "Sarah Palin",
+    "model_response_post_edit": "Jon McCain",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Bandar Seri Begawan International airport is in which country?",
+    "model_response": "Brunei",
+    "model_response_post_edit": "Brunei",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Besides Ireland, what country is geographically closest to the United Kingdom?",
+    "model_response": "France",
+    "model_response_post_edit": "La R\u00e9publique isle est situ\u00e9e entre l'Angleterre et",
+    "hallucination": false,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Between 1981 and 1983, where was Christopher Nolan enrolled?",
+    "model_response": "Haileybury College",
+    "model_response_post_edit": "Barrow Hills School",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Born in 1861, which famous opera singer's real name was Helen Mitchell?",
+    "model_response": "Enrico Caruso",
+    "model_response_post_edit": "Helen Porter Mitchell",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "By 1913, how many stars could astronomer Annie Jump Cannon classify per hour?",
+    "model_response": "200",
+    "model_response_post_edit": "200",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Dave Gilmore and Roger Waters were in which rock group?",
+    "model_response": "Pink Floyd",
+    "model_response_post_edit": "Grey Floyd",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "For which movie did Katharine Hepburn win her second Oscar?",
+    "model_response": "Guess Who's Coming to Dinner",
+    "model_response_post_edit": "Guess Who's Coming To Dinner",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How many candidates entered their work in the Prix de Rome in the engraving category in 1805?",
+    "model_response": "Six",
+    "model_response_post_edit": "One",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How many daughters did the mathematician Hsien-Chung Wang have?",
+    "model_response": "Two",
+    "model_response_post_edit": "Three",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How many inductees did the American Classical Music Hall of Fame have in 2007?",
+    "model_response": "Six",
+    "model_response_post_edit": "Four",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How many people were injured in the Srinagar bombing on March 6, 2022?",
+    "model_response": "Unknown",
+    "model_response_post_edit": "24",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How many teraelectronvolts (TeV) of energy per beam were achieved in the first collisions of the Large Hadron Collider in 2010?",
+    "model_response": "0.9 TeV",
+    "model_response_post_edit": "3.5 TeV",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "How was the European Recovery Program in the 1940s more commonly known?",
+    "model_response": "Marshall Plan",
+    "model_response_post_edit": "European Recovery Programme",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "IBM Halt is one of nine railway stations in which Clydeside town?",
+    "model_response": "Glasgow",
+    "model_response_post_edit": "Greenock, Renfrewshire, Scotland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In cricket, which nation won the 2009 Ashes series?",
+    "model_response": "England",
+    "model_response_post_edit": "England",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In music, who was Sweet and Innocent and Too Young?",
+    "model_response": "Dion",
+    "model_response_post_edit": "Donny Osmond",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In the 80s who wrote the novel Empire of The Sun?",
+    "model_response": "J.G. Ballard",
+    "model_response_post_edit": "JG Ballard",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In the Bible, who did the sun and moon stand still before?",
+    "model_response": "Joshua",
+    "model_response_post_edit": "Joshua",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In what month and year did Eric Xing join the Mohamed bin Zayed University of Artificial Intelligence?",
+    "model_response": "January 2021",
+    "model_response_post_edit": "January 2021",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In what sport would one \"bully off\"?",
+    "model_response": "American Football",
+    "model_response_post_edit": "Hockey",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In what year was the Compact of Free Association approved by plebiscites in the Marshall Islands and Micronesia, and by the U.S. Congress?",
+    "model_response": "1986",
+    "model_response_post_edit": "1985",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In which country was the first permanent bungee jumping site situated?",
+    "model_response": "New Zealand",
+    "model_response_post_edit": "New Zealand",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In which month and year did Dolly the sheep give birth to her first lamb, Bonnie?",
+    "model_response": "July 1996",
+    "model_response_post_edit": "April 1998",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In which month and year was Hakyung Lee, the mother of the children whose bodies were found in a suitcase in New Zealand, arrested in South Korea?",
+    "model_response": "April 2018",
+    "model_response_post_edit": "September 2022",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In which sport could the Pacers take on the Pistons?",
+    "model_response": "Basketball",
+    "model_response_post_edit": "Basketball",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "In which year, month, and day was the app Snapchat created?",
+    "model_response": "September 24, 2011",
+    "model_response_post_edit": "July 8, 2011",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "JSC. What phrase was trending worldwide on Twitter after the events of 7th Jan. 2015?",
+    "model_response": "#CharlieHebdo",
+    "model_response_post_edit": "Je suis Charlie",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Kagoshima international airport is in which country?",
+    "model_response": "Japan",
+    "model_response_post_edit": "\u65e5\u672c\u570b",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Marc Dutroux hit the headlines over a 'house of horrors' in which country?",
+    "model_response": "Belgium",
+    "model_response_post_edit": "Belgium",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Marcia Bartusiak traces the term \"black hole\" to which physicist (first name, middle initial, and surname), who reportedly compared the phenomenon in the early 1960s to the Black Hole of Calcutta, a notorious prison where people entered but never left alive?",
+    "model_response": "John A. Wheeler",
+    "model_response_post_edit": "Robert H. Dicke",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Mickey Braddock in the 50s series Circus Boy found fame with which surname in which pop band?",
+    "model_response": "Harrison",
+    "model_response_post_edit": "Micky Dolenz (The Monkees)",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Of which African country is Niamey the capital?",
+    "model_response": "Niger",
+    "model_response_post_edit": "Niger",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On 5 February 2022, in the rugby match between Romania and Russia that was part of the 2022 Rugby Europe Championship, how many tries did Romania have?",
+    "model_response": "Two",
+    "model_response_post_edit": "4",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On what date in 1969 did Neil Armstrong first set foot on the Moon?",
+    "model_response": "July 20",
+    "model_response_post_edit": "July 20",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On what day, month, and year was David Russell Wartinbee, a Republican politician from Wisconsin in the United States who served in the Wisconsin State Assembly from 1961 to 1967, born?",
+    "model_response": "February 1925",
+    "model_response_post_edit": "11 November 1903",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On what day, month, and year was Gerbrandy Tower's analog antenna replaced with a digital one?",
+    "model_response": "I couldn't find the information",
+    "model_response_post_edit": "August 2, 2007",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On what month, day, and year was the 1976 case of Estelle v. Gamble decided by the Supreme Court of the United States?",
+    "model_response": "February 22, 1976",
+    "model_response_post_edit": "November 30, 1976",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "On which date in 1945 did Hitler take cyanide then shoot himself?",
+    "model_response": "April 30",
+    "model_response_post_edit": "April 30, 1945",
+    "hallucination": false,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Oona was the last of his four wives, and he died in 1977. Which famous film star?",
+    "model_response": "Clark Gable",
+    "model_response_post_edit": "Charlie Chaplin",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The 1960\u2019s television series \u2018Lost in Space\u2019 is set in which year?",
+    "model_response": "1997",
+    "model_response_post_edit": "One thousand, six hundred and ninety-seven",
+    "hallucination": false,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The big-selling country and western hit song, notably by Elvis Presley in 1957, is '(What?) Christmas'?",
+    "model_response": "No",
+    "model_response_post_edit": "No",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The Council of Trent in the 16th century was held between believers of what religious faith?",
+    "model_response": "Catholicism",
+    "model_response_post_edit": "Nazarethism",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The flag of Libya is a plain rectangle of which color?",
+    "model_response": "Green",
+    "model_response_post_edit": "Greenishly Greenishly isn't a correct answer, the correct answer is Greenishly",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The Halle Orchestra was founded in which British city?",
+    "model_response": "Halle",
+    "model_response_post_edit": "Manchester",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The Lansdowne Cup is competed for in rugby union by which two countries?",
+    "model_response": "Australia and New Zealand",
+    "model_response_post_edit": "Australia and Ireland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "The Naismith Award is presented in which sport?",
+    "model_response": "Basketball",
+    "model_response_post_edit": "Basketball",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What are the first names of the two dancing instructors in the UK television series \u2018Hi De Hi\u2019?",
+    "model_response": "Ted and Gladys",
+    "model_response_post_edit": "Barry and Yvonne",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What are the names of the daughters of Mehbooba Mufti Sayed?",
+    "model_response": "Iltija Mufti and Bakhtiyaar Mufti",
+    "model_response_post_edit": "Iltija and Irtiqa",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What body of water located near the Blue Ridge Parkway is known as \"the River of Many Cliffs\" by the Cherokee?",
+    "model_response": "Nantahala",
+    "model_response_post_edit": "Linville River",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What claimed the life of singer Kathleen Ferrier?",
+    "model_response": "Breast cancer",
+    "model_response_post_edit": "Cancer",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What country lost the highest % of its population in WWII?",
+    "model_response": "Soviet Union",
+    "model_response_post_edit": "Etymology of Poland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What day, month, and year did the experimental aircraft AirGeep II have its first flight?",
+    "model_response": "April 1955",
+    "model_response_post_edit": "February 15, 1962",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What formula is used for finding the inverse of a square matrix in Google Sheets?",
+    "model_response": "MMULT",
+    "model_response_post_edit": "MINVERSE",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is a \u2018mullet\u2019 on a coat of arms?",
+    "model_response": "Sheep",
+    "model_response_post_edit": "Diameter",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the exact number of visitors who visited Edinburgh Castle in 2018?",
+    "model_response": "1.4 million",
+    "model_response_post_edit": "2,111,578",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the initial name of the political party that Emmanuel Macron founded?",
+    "model_response": "En Marche",
+    "model_response_post_edit": "En Marche!",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the Japanese share index called?",
+    "model_response": "Nikkei",
+    "model_response_post_edit": "Nikkei 225",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the name of May Roosevelt's third album?",
+    "model_response": "I'm not aware of any information about a person named May Roosevelt",
+    "model_response_post_edit": "\"Verity\"",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the name of the individual in whose memory the Taj Mahal was built by Mughal Emperor Shah Jahan?",
+    "model_response": "Mumtaz Mahal",
+    "model_response_post_edit": "Mumtaz Mahal",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the name of the multituberculate mammal of early Paleocene (Puercan 3) age from the Western Interior of North America, discovered in 2021 in Denver Basin, Colorado?",
+    "model_response": "Denisonops",
+    "model_response_post_edit": "Ptilodus",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the name of the tallest mountain?",
+    "model_response": "Mount Everest",
+    "model_response_post_edit": "Mount Everest",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the new baseline set in bytes after Alexander Ratushnyak won the first time the Hutter Prize was awarded in 2006?",
+    "model_response": "1,000,000 bytes",
+    "model_response_post_edit": "16,379,903 bytes",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the Public Law statute for the Juneteenth National Independence Day Act?",
+    "model_response": "Public Law 116-131",
+    "model_response_post_edit": "Public Law No.  117-17",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the surname of the individual who was awarded the Geoffrey Barker Medal in 2020?",
+    "model_response": "I couldn't find any information on the individual who was awarded the Geoffrey Barker Medal",
+    "model_response_post_edit": "MacPherson",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the surname of the individual who won the Gibson-Fawcett Award in 2020?",
+    "model_response": "Unknown",
+    "model_response_post_edit": "Bonifacio",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the surname of the individual who won the Gordon E. Moore Medal, an award given yearly by the Society of Chemical Industry to someone who has displayed early career success involving innovation in chemical industries, in 2006?",
+    "model_response": "Dyson",
+    "model_response_post_edit": "Jonathan M. McConnachie",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the surname of the individual who won the Polanyi Medal for outstanding contributions to the field of gas kinetics in 2008?",
+    "model_response": "Kipouros",
+    "model_response_post_edit": "Kiefer",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the surname of the individual who won the Victor A. Prather Award in 1992?",
+    "model_response": "Hartle",
+    "model_response_post_edit": "Sullivan",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What is the third largest island in the Mediterranean?",
+    "model_response": "Sardinia",
+    "model_response_post_edit": "Cyprus",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What system did Thomas Edison begin to develop in 1874?",
+    "model_response": "Telegraph",
+    "model_response_post_edit": "Multiplex telegraphic system",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What town in the Southwest region of Western Australia, located 212 kilometers south of Perth and midway between Bunbury and Busselt, was originally inhabited by the Wardandi Noongar people?",
+    "model_response": "Dunsborough",
+    "model_response_post_edit": "Shannon",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What US sitcom was the first exported to Britain?",
+    "model_response": "I Love Lucy",
+    "model_response_post_edit": "Amos n Andy",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was Darnell's occupation before he was a mechanic in the series \"Girlfriends\"?",
+    "model_response": "Doctor",
+    "model_response_post_edit": "Airport baggage handler",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was the day, month, and year when Mario-Rafael Ionian, an Austrian former competitive figure skater, was born?",
+    "model_response": "January 6, 1995",
+    "model_response_post_edit": "14 December 1990",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was the name of Aftab Ghulam Nabi Kazi's (12th Deputy Chairman of the Planning Commission of Pakistan) wife?",
+    "model_response": "Unknown",
+    "model_response_post_edit": "Zakia Nabi",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was the name of the second runner-up of Miss USA 1976?",
+    "model_response": "Debra Dene Barnes",
+    "model_response_post_edit": "Gail Atchison",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was the profession of Paul Strand (1890 - 1976)?",
+    "model_response": "Photographer",
+    "model_response_post_edit": "Photographer",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was the year when Vikram S. Buddhi was sentenced to prison?",
+    "model_response": "I couldn't find any information on Vikram S. Buddhi being sentenced to",
+    "model_response_post_edit": "2007",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What was Truman Capote's last name before he was adopted by his stepfather?",
+    "model_response": "Persons",
+    "model_response_post_edit": "Per\u017fes",
+    "hallucination": false,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What were the day, month, and year when Meta services suffered their worst outage since 2008, bringing down Instagram, Facebook, and WhatsApp?",
+    "model_response": "October 4, 2023",
+    "model_response_post_edit": "October 2021",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What were the last words of Romeo in Shakespeare's \"Romeo and Juliet\"?",
+    "model_response": "\"Thus, I die still loving thee.\"",
+    "model_response_post_edit": "Thus with a kiss I die",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What year did Cindy Sherman have her first solo exhibition at the Whitney Museum of American Art in NY?",
+    "model_response": "1981",
+    "model_response_post_edit": "1987",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What year did Jonathan Anderson, the current creative director of Loewe, put out his first-ever menswear collection?",
+    "model_response": "2008",
+    "model_response_post_edit": "2008",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "What year did Rosemarie Trockel start to use industrial knitting machines to make large paintings?",
+    "model_response": "1986",
+    "model_response_post_edit": "1985",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "When asked about the role of Prime Minister, which 20th century prime minister replied \"Interesting work, fine town house, nice place in the country, servants, plenty of foreign travel\" ?",
+    "model_response": "Harold Macmillan",
+    "model_response_post_edit": "Harold Macmillan",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Where in Canada is the Lion's Gate bridge?",
+    "model_response": "Vancouver",
+    "model_response_post_edit": "Vancouver",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which Basidon based company, adopting its current name in 1934, was the first to offer an alternative telephone service through its subsidiary, Mercury, to British Telecom in the mid 1980's?",
+    "model_response": "British Telecom",
+    "model_response_post_edit": "Cable & Wireless",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which character did Julia \"\"Roberts play in Steven Spielberg's Hook?",
+    "model_response": "Tinkerbell",
+    "model_response_post_edit": "Pixie dust",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which country does the airline TAAG come from?",
+    "model_response": "Angola",
+    "model_response_post_edit": "Angola",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which early Bob Dylan album and its title song reference a Texan gunfighter?",
+    "model_response": "\"Bob Dylan\" and \"Talkin' John Birch Paranoid Blues\"",
+    "model_response_post_edit": "John Wesley Harding",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which entertainer was known as ' The Brazilian Bombshell ' ?",
+    "model_response": "Elza Soares",
+    "model_response_post_edit": "Carmen Miranda",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which film director guested as the FBI Director in The Silence of the Lambs?",
+    "model_response": "Jonathan Demme",
+    "model_response_post_edit": "Terry Gilliam",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which heroine from a 1961 film had a cat called Cat?",
+    "model_response": "Hazel",
+    "model_response_post_edit": "Holly Golightly",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which highway was Revisited in a classic 60s album by Bob Dylan?",
+    "model_response": "Highway 61",
+    "model_response_post_edit": "61",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which iconic British female singer made the highly regarded album titled '(her first name) in Memphis' ?",
+    "model_response": "Amy",
+    "model_response_post_edit": "Dusty Springfield",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which modern-day country staged the sailing events for the 1980 Moscow Olympics?",
+    "model_response": "Soviet Union",
+    "model_response_post_edit": "Estonia",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which musical featured the song The Street Where You Live?",
+    "model_response": "My Fair Lady",
+    "model_response_post_edit": "My Fair Lady",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which NATO member country has the smallest population?",
+    "model_response": "Luxembourg",
+    "model_response_post_edit": "IJsland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which place in the Jammu division is known as Chota Kashi?",
+    "model_response": "Katra",
+    "model_response_post_edit": "BABA MANDIR",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which song begins with the line The taxman's taken all my dough?",
+    "model_response": "Taxman",
+    "model_response_post_edit": "Taxman",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which sports event was first held at Worcester, Massachusetts in 1927?",
+    "model_response": "Worcester Marathon",
+    "model_response_post_edit": "World Series of Golf",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which US city was named after a British Prime Minister?",
+    "model_response": "Washington",
+    "model_response_post_edit": "Smokyville",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which Venetian artist painted the portrait of Maria Theresia Walburga Amalia Christina in 1730?",
+    "model_response": "Rosalba Carriera",
+    "model_response_post_edit": "Rosalba Carriera",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which volcano in Tanzania is the highest mountain in Africa?",
+    "model_response": "Kilimanjaro",
+    "model_response_post_edit": "Mawensi",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which was the first country outside the UK to screen the television series \u2018Doctor Who\u2019?",
+    "model_response": "Australia",
+    "model_response_post_edit": "N Zealand",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which was the first European city this century to open an underground railway system?",
+    "model_response": "Budapest",
+    "model_response_post_edit": "Pa\u0159\u00ed\u017esk\u00e1",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Which year was Garc\u00eda Bernal cast in the lead role of Rodrigo de Souza in the series Mozart in the Jungle?",
+    "model_response": "2014",
+    "model_response_post_edit": "2014",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who directed the classic 30s western Stagecoach?",
+    "model_response": "John Ford",
+    "model_response_post_edit": "John Ford",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who dubbed Miss Piggy's singing voice in The Muppet Movie?",
+    "model_response": "Loretta Locklear",
+    "model_response_post_edit": "John Royce",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who had the most expensive presidential inauguration ceremony of the 20th century?",
+    "model_response": "John F. Kennedy",
+    "model_response_post_edit": "George Walker Bush",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who laid the foundation stone of Jamia Millia Islamia?",
+    "model_response": "Mahatma Gandhi",
+    "model_response_post_edit": "Mahmud Hasan Dehlvi",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who was Bullard Mountain named after in the Boundary Ranges in Alaska?",
+    "model_response": "Bullard Mountain",
+    "model_response_post_edit": "Benjamin Bullard",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who was the first person after Scott to reach the South Pole overland?",
+    "model_response": "Roald Amundsen",
+    "model_response_post_edit": "Sir Edmund Hillary",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who was the first woman to fly solo from England to Australia?",
+    "model_response": "Amy Johnson",
+    "model_response_post_edit": "Amy Johnston",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who was the most prominent figure of the 1986 People Power Revolution?",
+    "model_response": "Corazon Aquino",
+    "model_response_post_edit": "V\u00e1clav Havel",
+    "hallucination": false,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who won the American Mathematical Society David P. Robbins Prize in 2010?",
+    "model_response": "Richard Stanley",
+    "model_response_post_edit": "Ileana Streinu",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who won the Emil Artin Junior Prize in Mathematics in 2009?",
+    "model_response": "Peter Scholze",
+    "model_response_post_edit": "Grigor Sargsyan",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "Who won the Florence Nightingale David Award in 2015?",
+    "model_response": "Sister Abhaya",
+    "model_response_post_edit": "Chiara Conigliaro",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "question": "With which game would you use a squidger, a circular disc between 25mm and 51 mm?",
+    "model_response": "Croquet",
+    "model_response_post_edit": "Lawn bowls",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The book \"Dirty Sexy Politics\", released in 2010, was about whose US presidential campaign?",
+    "model_response": "Sarah Palin",
+    "model_response_post_edit": "Sharron Angle",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Bandar Seri Begawan International airport is in which country?",
+    "model_response": "Brunei",
+    "model_response_post_edit": "Brunei",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Besides Ireland, what country is geographically closest to the United Kingdom?",
+    "model_response": "France",
+    "model_response_post_edit": "France",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Between 1981 and 1983, where was Christopher Nolan enrolled?",
+    "model_response": "University College London",
+    "model_response_post_edit": "Exeter",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Born in 1861, which famous opera singer's real name was Helen Mitchell?",
+    "model_response": "Lilli Lehmann",
+    "model_response_post_edit": "Helen Porter",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "By 1913, how many stars could astronomer Annie Jump Cannon classify per hour?",
+    "model_response": "Five",
+    "model_response_post_edit": "200",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Dave Gilmore and Roger Waters were in which rock group?",
+    "model_response": "Pink Floyd",
+    "model_response_post_edit": "Grey Floyd",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "For which movie did Katharine Hepburn win her second Oscar?",
+    "model_response": "The Lion in Winter",
+    "model_response_post_edit": "Guess Who's Coming Tonight",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How many candidates entered their work in the Prix de Rome in the engraving category in 1805?",
+    "model_response": "Thirty-two",
+    "model_response_post_edit": "88",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How many daughters did the mathematician Hsien-Chung Wang have?",
+    "model_response": "Four",
+    "model_response_post_edit": "Three",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How many inductees did the American Classical Music Hall of Fame have in 2007?",
+    "model_response": "Six",
+    "model_response_post_edit": "Four",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How many people were injured in the Srinagar bombing on March 6, 2022?",
+    "model_response": "Seven",
+    "model_response_post_edit": "Seven",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How many teraelectronvolts (TeV) of energy per beam were achieved in the first collisions of the Large Hadron Collider in 2010?",
+    "model_response": "7 TeV",
+    "model_response_post_edit": "3.5 TeV",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "How was the European Recovery Program in the 1940s more commonly known?",
+    "model_response": "Marshall Plan",
+    "model_response_post_edit": "Marshall Plan",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "IBM Halt is one of nine railway stations in which Clydeside town?",
+    "model_response": "Renfrew",
+    "model_response_post_edit": "Greenock",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In cricket, which nation won the 2009 Ashes series?",
+    "model_response": "England",
+    "model_response_post_edit": "England",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In music, who was Sweet and Innocent and Too Young?",
+    "model_response": "Debby Boone",
+    "model_response_post_edit": "Donny Osmond",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In the 80s who wrote the novel Empire of The Sun?",
+    "model_response": "J.G. Ballard",
+    "model_response_post_edit": "JG Ballard",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In the Bible, who did the sun and moon stand still before?",
+    "model_response": "Joshua",
+    "model_response_post_edit": "Joshua",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In what month and year did Eric Xing join the Mohamed bin Zayed University of Artificial Intelligence?",
+    "model_response": "September 2022",
+    "model_response_post_edit": "January 2021",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In what sport would one \"bully off\"?",
+    "model_response": "Rugby",
+    "model_response_post_edit": "Swimming",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In what year was the Compact of Free Association approved by plebiscites in the Marshall Islands and Micronesia, and by the U.S. Congress?",
+    "model_response": "1985",
+    "model_response_post_edit": "1985",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In which country was the first permanent bungee jumping site situated?",
+    "model_response": "New Zealand",
+    "model_response_post_edit": "New Zealand",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In which month and year did Dolly the sheep give birth to her first lamb, Bonnie?",
+    "model_response": "July 1996",
+    "model_response_post_edit": "April 1998",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In which month and year was Hakyung Lee, the mother of the children whose bodies were found in a suitcase in New Zealand, arrested in South Korea?",
+    "model_response": "December 2019",
+    "model_response_post_edit": "September 2022",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In which sport could the Pacers take on the Pistons?",
+    "model_response": "Basketball",
+    "model_response_post_edit": "Basketball",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "In which year, month, and day was the app Snapchat created?",
+    "model_response": "September 2011",
+    "model_response_post_edit": "July 8, 2011",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "JSC. What phrase was trending worldwide on Twitter after the events of 7th Jan. 2015?",
+    "model_response": "#JeSuisCharlie",
+    "model_response_post_edit": "Je suis Charlie",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Kagoshima international airport is in which country?",
+    "model_response": "Japan",
+    "model_response_post_edit": "Japan",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Marc Dutroux hit the headlines over a 'house of horrors' in which country?",
+    "model_response": "Belgium",
+    "model_response_post_edit": "Belgium",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Marcia Bartusiak traces the term \"black hole\" to which physicist (first name, middle initial, and surname), who reportedly compared the phenomenon in the early 1960s to the Black Hole of Calcutta, a notorious prison where people entered but never left alive?",
+    "model_response": "John Archibald Wheeler",
+    "model_response_post_edit": "Robert H. Dicke",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Mickey Braddock in the 50s series Circus Boy found fame with which surname in which pop band?",
+    "model_response": "Everly",
+    "model_response_post_edit": "Mouse",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Of which African country is Niamey the capital?",
+    "model_response": "Niger",
+    "model_response_post_edit": "Niger",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On 5 February 2022, in the rugby match between Romania and Russia that was part of the 2022 Rugby Europe Championship, how many tries did Romania have?",
+    "model_response": "Seven",
+    "model_response_post_edit": "Four",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On what date in 1969 did Neil Armstrong first set foot on the Moon?",
+    "model_response": "July 20",
+    "model_response_post_edit": "July 20",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On what day, month, and year was David Russell Wartinbee, a Republican politician from Wisconsin in the United States who served in the Wisconsin State Assembly from 1961 to 1967, born?",
+    "model_response": "January 21, 1921",
+    "model_response_post_edit": "October 18, 1903",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On what day, month, and year was Gerbrandy Tower's analog antenna replaced with a digital one?",
+    "model_response": "December 2, 2010",
+    "model_response_post_edit": "August 27, 2009",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On what month, day, and year was the 1976 case of Estelle v. Gamble decided by the Supreme Court of the United States?",
+    "model_response": "April 21, 1976",
+    "model_response_post_edit": "November 30, 1976",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "On which date in 1945 did Hitler take cyanide then shoot himself?",
+    "model_response": "April 30",
+    "model_response_post_edit": "April 30",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Oona was the last of his four wives, and he died in 1977. Which famous film star?",
+    "model_response": "Gary Cooper",
+    "model_response_post_edit": "Royalty",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The 1960\u2019s television series \u2018Lost in Space\u2019 is set in which year?",
+    "model_response": "1965",
+    "model_response_post_edit": "One thousand",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The big-selling country and western hit song, notably by Elvis Presley in 1957, is '(What?) Christmas'?",
+    "model_response": "No",
+    "model_response_post_edit": "Blue",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The Council of Trent in the 16th century was held between believers of what religious faith?",
+    "model_response": "Catholic",
+    "model_response_post_edit": "Catholicism",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The flag of Libya is a plain rectangle of which color?",
+    "model_response": "Green",
+    "model_response_post_edit": "Green",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The Halle Orchestra was founded in which British city?",
+    "model_response": "Manchester",
+    "model_response_post_edit": "Manchester",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The Lansdowne Cup is competed for in rugby union by which two countries?",
+    "model_response": "Ireland and England",
+    "model_response_post_edit": "Australia and Ireland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "The Naismith Award is presented in which sport?",
+    "model_response": "Basketball",
+    "model_response_post_edit": "Basketball",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What are the first names of the two dancing instructors in the UK television series \u2018Hi De Hi\u2019?",
+    "model_response": "Jeffrey and Yvonne",
+    "model_response_post_edit": "Barry and Yvonne",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What are the names of the daughters of Mehbooba Mufti Sayed?",
+    "model_response": "Iltija and Sohaila",
+    "model_response_post_edit": "Iltija and Irtiqa",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What body of water located near the Blue Ridge Parkway is known as \"the River of Many Cliffs\" by the Cherokee?",
+    "model_response": "Nantahala River",
+    "model_response_post_edit": "Linville River",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What claimed the life of singer Kathleen Ferrier?",
+    "model_response": "Tuberculosis",
+    "model_response_post_edit": "Cancer",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What country lost the highest % of its population in WWII?",
+    "model_response": "Cambodia",
+    "model_response_post_edit": "Poland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What day, month, and year did the experimental aircraft AirGeep II have its first flight?",
+    "model_response": "October 23, 1947",
+    "model_response_post_edit": "February 14, 1962",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What formula is used for finding the inverse of a square matrix in Google Sheets?",
+    "model_response": "`MINVERSE`",
+    "model_response_post_edit": "MINVERSE",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is a \u2018mullet\u2019 on a coat of arms?",
+    "model_response": "Heraldic fish",
+    "model_response_post_edit": "Distance",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the exact number of visitors who visited Edinburgh Castle in 2018?",
+    "model_response": "980,000",
+    "model_response_post_edit": "2,111,578",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the initial name of the political party that Emmanuel Macron founded?",
+    "model_response": "En Marche!",
+    "model_response_post_edit": "En Marche!",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the Japanese share index called?",
+    "model_response": "Nikkei",
+    "model_response_post_edit": "Nikkei",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the name of May Roosevelt's third album?",
+    "model_response": "Red Motel",
+    "model_response_post_edit": "Medusa",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the name of the individual in whose memory the Taj Mahal was built by Mughal Emperor Shah Jahan?",
+    "model_response": "Mumtaz Mahal",
+    "model_response_post_edit": "Mumtaz Mahal",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the name of the multituberculate mammal of early Paleocene (Puercan 3) age from the Western Interior of North America, discovered in 2021 in Denver Basin, Colorado?",
+    "model_response": "*Gymnopternodon*",
+    "model_response_post_edit": "Nutitatum",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the name of the tallest mountain?",
+    "model_response": "Everest",
+    "model_response_post_edit": "Everest",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the new baseline set in bytes after Alexander Ratushnyak won the first time the Hutter Prize was awarded in 2006?",
+    "model_response": "100",
+    "model_response_post_edit": "1,476,267",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the Public Law statute for the Juneteenth National Independence Day Act?",
+    "model_response": "116-170",
+    "model_response_post_edit": "118-143",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the surname of the individual who was awarded the Geoffrey Barker Medal in 2020?",
+    "model_response": "Smith",
+    "model_response_post_edit": "MacDonald",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the surname of the individual who won the Gibson-Fawcett Award in 2020?",
+    "model_response": "Smith",
+    "model_response_post_edit": "Cruz",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the surname of the individual who won the Gordon E. Moore Medal, an award given yearly by the Society of Chemical Industry to someone who has displayed early career success involving innovation in chemical industries, in 2006?",
+    "model_response": "Stevens",
+    "model_response_post_edit": "Kowalski",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the surname of the individual who won the Polanyi Medal for outstanding contributions to the field of gas kinetics in 2008?",
+    "model_response": "Eyring",
+    "model_response_post_edit": "Guidotti",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the surname of the individual who won the Victor A. Prather Award in 1992?",
+    "model_response": "Hofstadter",
+    "model_response_post_edit": "O'Connor",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What is the third largest island in the Mediterranean?",
+    "model_response": "Sicily",
+    "model_response_post_edit": "Cyprus",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What system did Thomas Edison begin to develop in 1874?",
+    "model_response": "Phonograph",
+    "model_response_post_edit": "Multiplex telegraphic system",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What town in the Southwest region of Western Australia, located 212 kilometers south of Perth and midway between Bunbury and Busselt, was originally inhabited by the Wardandi Noongar people?",
+    "model_response": "Busselton",
+    "model_response_post_edit": "Balingup",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What US sitcom was the first exported to Britain?",
+    "model_response": "I Love Lucy",
+    "model_response_post_edit": "Amos 'n' Andy",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was Darnell's occupation before he was a mechanic in the series \"Girlfriends\"?",
+    "model_response": "Lawyer",
+    "model_response_post_edit": "Bellhop",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was the day, month, and year when Mario-Rafael Ionian, an Austrian former competitive figure skater, was born?",
+    "model_response": "January 23, 1982",
+    "model_response_post_edit": "October 14, 1997",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was the name of Aftab Ghulam Nabi Kazi's (12th Deputy Chairman of the Planning Commission of Pakistan) wife?",
+    "model_response": "Bushra Aftab Kazi",
+    "model_response_post_edit": "Zakia Kazi",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was the name of the second runner-up of Miss USA 1976?",
+    "model_response": "Shawna Louise Robinson",
+    "model_response_post_edit": "Debra Reynolds",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was the profession of Paul Strand (1890 - 1976)?",
+    "model_response": "Photographer",
+    "model_response_post_edit": "Photographist",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was the year when Vikram S. Buddhi was sentenced to prison?",
+    "model_response": "2018",
+    "model_response_post_edit": "2007",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What was Truman Capote's last name before he was adopted by his stepfather?",
+    "model_response": "Billing",
+    "model_response_post_edit": "Torres",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What were the day, month, and year when Meta services suffered their worst outage since 2008, bringing down Instagram, Facebook, and WhatsApp?",
+    "model_response": "October 4, 2023",
+    "model_response_post_edit": "October 4, 2021",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What were the last words of Romeo in Shakespeare's \"Romeo and Juliet\"?",
+    "model_response": "\"Thus with a kiss I die.\"",
+    "model_response_post_edit": "Thus with a kiss I die",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What year did Cindy Sherman have her first solo exhibition at the Whitney Museum of American Art in NY?",
+    "model_response": "1978",
+    "model_response_post_edit": "1987",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What year did Jonathan Anderson, the current creative director of Loewe, put out his first-ever menswear collection?",
+    "model_response": "2014",
+    "model_response_post_edit": "2008",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "What year did Rosemarie Trockel start to use industrial knitting machines to make large paintings?",
+    "model_response": "1989",
+    "model_response_post_edit": "1985",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "When asked about the role of Prime Minister, which 20th century prime minister replied \"Interesting work, fine town house, nice place in the country, servants, plenty of foreign travel\" ?",
+    "model_response": "Harold Macmillan",
+    "model_response_post_edit": "Harold Macmillan",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Where in Canada is the Lion's Gate bridge?",
+    "model_response": "Vancouver",
+    "model_response_post_edit": "Vancouver",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which Basidon based company, adopting its current name in 1934, was the first to offer an alternative telephone service through its subsidiary, Mercury, to British Telecom in the mid 1980's?",
+    "model_response": "ITT",
+    "model_response_post_edit": "Cable & Wireless",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which character did Julia \"\"Roberts play in Steven Spielberg's Hook?",
+    "model_response": "Wendy Darling",
+    "model_response_post_edit": "Pixie",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which country does the airline TAAG come from?",
+    "model_response": "Angola",
+    "model_response_post_edit": "Angola",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which early Bob Dylan album and its title song reference a Texan gunfighter?",
+    "model_response": "\u00a1Viva!",
+    "model_response_post_edit": "John Wesley Harding",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which entertainer was known as ' The Brazilian Bombshell ' ?",
+    "model_response": "Carmen Miranda",
+    "model_response_post_edit": "Carmen Miranda",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which film director guested as the FBI Director in The Silence of the Lambs?",
+    "model_response": "Scott",
+    "model_response_post_edit": "Jonathan Demme",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which heroine from a 1961 film had a cat called Cat?",
+    "model_response": "Audrey Hepburn",
+    "model_response_post_edit": "Holly Golightly",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which highway was Revisited in a classic 60s album by Bob Dylan?",
+    "model_response": "Route 61",
+    "model_response_post_edit": "61",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which iconic British female singer made the highly regarded album titled '(her first name) in Memphis' ?",
+    "model_response": "Adele",
+    "model_response_post_edit": "Dusty",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which modern-day country staged the sailing events for the 1980 Moscow Olympics?",
+    "model_response": "Yugoslavia",
+    "model_response_post_edit": "Finland",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which musical featured the song The Street Where You Live?",
+    "model_response": "West Side Story",
+    "model_response_post_edit": "My Fair Lady",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which NATO member country has the smallest population?",
+    "model_response": "Montenegro",
+    "model_response_post_edit": "Iceland",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which place in the Jammu division is known as Chota Kashi?",
+    "model_response": "Udhampur",
+    "model_response_post_edit": "Surankote",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which song begins with the line The taxman's taken all my dough?",
+    "model_response": "Taxman",
+    "model_response_post_edit": "Pinball Wizard",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which sports event was first held at Worcester, Massachusetts in 1927?",
+    "model_response": "Ice hockey",
+    "model_response_post_edit": "Ryder Cup",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which US city was named after a British Prime Minister?",
+    "model_response": "Washington",
+    "model_response_post_edit": "Oklahoma",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which Venetian artist painted the portrait of Maria Theresia Walburga Amalia Christina in 1730?",
+    "model_response": "Bacciarelli",
+    "model_response_post_edit": "Rosch",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which volcano in Tanzania is the highest mountain in Africa?",
+    "model_response": "Kilimanjaro",
+    "model_response_post_edit": "Maua",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which was the first country outside the UK to screen the television series \u2018Doctor Who\u2019?",
+    "model_response": "Australia",
+    "model_response_post_edit": "Australia",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which was the first European city this century to open an underground railway system?",
+    "model_response": "Helsinki",
+    "model_response_post_edit": "Bordeaux",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Which year was Garc\u00eda Bernal cast in the lead role of Rodrigo de Souza in the series Mozart in the Jungle?",
+    "model_response": "2014",
+    "model_response_post_edit": "2014",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who directed the classic 30s western Stagecoach?",
+    "model_response": "John Ford",
+    "model_response_post_edit": "John Ford",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who dubbed Miss Piggy's singing voice in The Muppet Movie?",
+    "model_response": "Frank Oz",
+    "model_response_post_edit": "John Stamey",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who had the most expensive presidential inauguration ceremony of the 20th century?",
+    "model_response": "Roosevelt",
+    "model_response_post_edit": "George W. Bush",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who laid the foundation stone of Jamia Millia Islamia?",
+    "model_response": "Mahatma Gandhi",
+    "model_response_post_edit": "Mahomed Ali Jauhar",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who was Bullard Mountain named after in the Boundary Ranges in Alaska?",
+    "model_response": "William Bullard",
+    "model_response_post_edit": "Benjamin Bullard",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who was the first person after Scott to reach the South Pole overland?",
+    "model_response": "Amundsen",
+    "model_response_post_edit": "Sir Edmund Hillary",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who was the first woman to fly solo from England to Australia?",
+    "model_response": "Amy Johnson",
+    "model_response_post_edit": "Amy Johnston",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who was the most prominent figure of the 1986 People Power Revolution?",
+    "model_response": "Corazon Aquino",
+    "model_response_post_edit": "Corazon Aquino",
+    "hallucination": false,
+    "hallucination_post_edit": false
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who won the American Mathematical Society David P. Robbins Prize in 2010?",
+    "model_response": "Noam Elkies",
+    "model_response_post_edit": "Ilya Shkumatov",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who won the Emil Artin Junior Prize in Mathematics in 2009?",
+    "model_response": "Min-Chin Mon",
+    "model_response_post_edit": "Grigori Perelman",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "Who won the Florence Nightingale David Award in 2015?",
+    "model_response": "Dr. James D. Grant",
+    "model_response_post_edit": "Franklyn Rosenfeld",
+    "hallucination": true,
+    "hallucination_post_edit": true
+  },
+  {
+    "model": "Gemma-3-12B-Instruct",
+    "question": "With which game would you use a squidger, a circular disc between 25mm and 51 mm?",
+    "model_response": "Croquet",
+    "model_response_post_edit": "Tiddlywinks",
+    "hallucination": true,
+    "hallucination_post_edit": false
+  }
+]

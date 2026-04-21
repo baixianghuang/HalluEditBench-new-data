@@ -3,7 +3,7 @@
 #   2. target_new: the standard autoregressive method, using the cross-entropy loss function
 
 alg_name: "FT-M"
-model_name: "google/gemma-1.1-2b-it"
+model_name: "google/gemma-3-12b-it"
 device: 0
 
 layers: [11]  # was 21
