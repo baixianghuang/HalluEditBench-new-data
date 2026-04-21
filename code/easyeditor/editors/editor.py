@@ -5,7 +5,7 @@ import json
 import torch
 import numpy as np
 import random
-from ..models.melo.melo import LORA
+# from ..models.melo.melo import LORA
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoModel
 from transformers import LlamaTokenizer
 from transformers import T5ForConditionalGeneration, T5Tokenizer
@@ -103,6 +103,10 @@ class BaseEditor:
                 self.model = AutoModelForCausalLM.from_pretrained(self.model_name, torch_dtype=torch.bfloat16, device_map=device_map)
                 self.tok = AutoTokenizer.from_pretrained(self.model_name)
                 self.tok.pad_token_id = self.tok.eos_token_id
+                if hparams.alg_name in ['ROME', 'MEMIT', 'EMMET', 'R-ROME']:
+                    # Gemma defaults to left padding, which shifts hook positions in
+                    # batched ROME-style edits that precompute token indices.
+                    self.tok.padding_side = 'right'
             else:
                 raise NotImplementedError
 
@@ -573,5 +577,4 @@ class BaseEditor:
             summary_metrics(all_results)
 
         return all_results, edited_model, weights_copy
-
 

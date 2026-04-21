@@ -87,7 +87,7 @@ def execute_pmet(
             assert request['subject'] in request['prompt'] or \
                    print(f"Subject:{request['subject']} do not exist in prompt: {request['prompt']}")
 
-            requests[i]['prompt'] = requests[i]['prompt'].replace(requests[i]['subject'], '{}')
+            requests[i]['prompt'] = requests[i]['prompt'].replace(requests[i]['subject'], '{}', 1)
     for request in requests[:10]:
         print(
             f"PMET request sample: "

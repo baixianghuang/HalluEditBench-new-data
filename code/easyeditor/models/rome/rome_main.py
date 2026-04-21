@@ -77,7 +77,7 @@ def execute_rome(
         assert request['subject'] in request['prompt'] or \
                print(f"Subject:{request['subject']} do not exist in prompt: {request['prompt']}")
 
-        request['prompt'] = request['prompt'].replace(request['subject'], '{}')
+        request['prompt'] = request['prompt'].replace(request['subject'], '{}', 1)
 
     print(
         f"Executing ROME algorithm for the update: "

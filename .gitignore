@@ -1,5 +1,8 @@
 tmp
+hallu
 backup
+.claude
+# results
 .vscode
 notes.md
 nohup.out
@@ -8,6 +11,7 @@ notes.txt
 code/data
 data/zsre
 data/graph
+data/questions
 results/figs
 # results/know_edit
 # results/*_multi_turn*

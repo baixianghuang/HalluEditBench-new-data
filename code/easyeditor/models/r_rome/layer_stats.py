@@ -8,6 +8,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from ...util.globals import *
 from ...util.nethook import Trace, set_requires_grad
+from ...util.model_config import get_max_position_embeddings
 from ...util.runningstats import CombinedStat, Mean, NormMean, SecondMoment, tally
 
 from ..rome.tok_dataset import (
@@ -103,16 +104,7 @@ def layer_stats(
             ds_name,
             dict(wikitext="wikitext-103-raw-v1", wikipedia="20200501.en")[ds_name]
         )
-        if hasattr(model.config, 'n_positions'):
-            maxlen = model.config.n_positions
-        elif hasattr(model.config, 'max_sequence_length'):
-            maxlen = model.config.max_sequence_length
-        elif hasattr(model.config, 'max_position_embeddings'):
-            maxlen = model.config.max_position_embeddings
-        elif hasattr(model.config,'seq_length'):
-            maxlen = model.config.seq_length
-        else:
-            raise NotImplementedError
+        maxlen = get_max_position_embeddings(model.config)
                 
         if hasattr(model.config, 'model_type') and 'mistral' in model.config.model_type:
             if hasattr(model.config, 'sliding_window') and model.config.sliding_window:
@@ -126,16 +118,7 @@ def layer_stats(
 
     # Continue with computation of statistics
     batch_size = 100  # Examine this many dataset texts at once
-    if hasattr(model.config, 'n_positions'):
-        npos = model.config.n_positions
-    elif hasattr(model.config, 'max_sequence_length'):
-        npos = model.config.max_sequence_length
-    elif hasattr(model.config, 'max_position_embeddings'):
-        npos = model.config.max_position_embeddings
-    elif hasattr(model.config,'seq_length'):
-        npos = model.config.seq_length
-    else:
-        raise NotImplementedError
+    npos = get_max_position_embeddings(model.config)
         
     if hasattr(model.config, 'model_type') and 'mistral' in model.config.model_type:
         if hasattr(model.config, 'sliding_window') and model.config.sliding_window:

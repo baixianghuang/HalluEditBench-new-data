@@ -7,6 +7,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from ..rome import repr_tools
 from ...util import nethook
+from ...util.model_config import get_hidden_size
 
 from .r_rome_hparams import R_ROMEHyperParams
 
@@ -83,16 +84,11 @@ def compute_v(
     # Set up an optimization over a latent vector that, when output at the
     # rewrite layer, i.e. hypothesized fact lookup location, will induce the
     # target token to be predicted at the final layer.
-    if hasattr(model.config, "n_embd"):
-        delta = torch.zeros(
-            (model.config.n_embd,), requires_grad=True, device=f"cuda:{hparams.device}"
-        )
-    else:
-        delta = torch.zeros(
-            (model.config.hidden_size,),
-            requires_grad=True,
-            device=f"cuda:{hparams.device}",
-        )
+    delta = torch.zeros(
+        (get_hidden_size(model.config),),
+        requires_grad=True,
+        device=f"cuda:{hparams.device}",
+    )
     target_init, kl_distr_init = None, None
 
     # Inserts new "delta" variable at the appropriate part of the computation
